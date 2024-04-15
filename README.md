@@ -12,7 +12,7 @@ specifically Android Studio 4.1 Canary 9.
 ## Screenshots
 
 <table>
- <tr>
+ 
     <td><img src="screenshots/home.png"</td>
     <td><img src="screenshots/home2.png"</td>
     <td><img src="screenshots/details.png"</td>
